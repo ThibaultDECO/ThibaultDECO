@@ -24,8 +24,8 @@
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thibaultdeco&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="thibaultdeco" /></a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thibaultdeco&show_icons=true&locale=en&layout=compact" alt="thibaultdeco" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thibaultdeco&show_icons=true&locale=en&layout=compact" alt="thibaultdeco" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thibaultdeco&show_icons=true&locale=en" alt="thibaultdeco" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thibaultdeco&" alt="thibaultdeco" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thibaultdeco&" alt="thibaultdeco" /></p>
