@@ -6,7 +6,7 @@
 <p>
 ❤️ I like optimizing code and chasing bugs<br/>
 🔎 <b>Interests:</b> Machine Learning & Deep Learning - I like predicting the future through the modelling of complex situations<br/>
-🤔 <b>Contributions:</b> Eclectic because I'm very curious and interested by everything<br/>
+🤔 <b>Contributions:</b> Diverse because I'm very curious and interested by everything<br/>
 💼 <b>Education:</b> BSc in Maths, MSc in Engineering, MSc in Finance, Bootcamp in AI<br/>
 🥷 <b>Skills:</b> Critical thinking, problem solving, autonomous, quick learner, rigorous, methodical, reliable, efficient<br/>
 📫 How to reach me: <b>example@gmail.com</b>
