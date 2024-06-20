@@ -9,7 +9,7 @@
 🤔 <b>Contributions:</b> Diverse because I'm very curious and interested by everything<br/>
 💼 <b>Education:</b> BSc in Maths, MSc in Engineering, MSc in Finance, Bootcamp in AI<br/>
 🥷 <b>Skills:</b> Critical thinking, problem solving, autonomous, quick learner, rigorous, methodical, reliable, efficient<br/>
-📫 How to reach me: <b>example@gmail.com</b>
+📫 How to reach me: <a href="https://linkedin.com/in/thibaultdecoincy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thibaultdecoincy" height="12" width="16" /></a>
 </p>
 
 <p align="center">
